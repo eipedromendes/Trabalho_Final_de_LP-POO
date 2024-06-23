@@ -48,3 +48,10 @@
 <p>Implementação das classes de domínio seguindo as melhores práticas de POO. 
 Encapsulamento adequado de todos os campos das classes, com getters e setters. 
 Construtores vazios (sem argumentos) para cada classe, inicializando os campos com valores padrão apropriados.</p>
+
+<p><b>Parte 2: Conexão com Banco de Dados</b></p>
+<p>Para estabelecer a conexão com o banco de dados MySQL Workbench, foram seguidos passos essenciais. Inicialmente, o banco foi criado e configurado na própria ferramenta, conhecida pela sua eficácia no gerenciamento de bancos MySQL. Para a integração da aplicação, foi crucial utilizar o driver JDBC no Visual Studio Code, possibilitando operações Java com o banco. A estrutura do projeto foi organizada com a pasta "connection" e o arquivo ConnectionFactory, centralizando a lógica de conexão para garantir eficiência e segurança. Com métodos para abrir e fechar conexões, o arquivo assegura uma interação robusta e segura com o banco de dados, mantendo a integridade do sistema e facilitando a manutenção do código.</p>
+
+-----
+
+<h3></h3>
