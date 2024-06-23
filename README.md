@@ -102,7 +102,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Tela Carrinho:</h3>
 
 <p>Mostra os itens selecionados pelo usuário para compra, possibilitando adicionar, remover e ajustar quantidades.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCarrinho.jpeg?raw=true" width="600px" height="500px"/></a>
 </td>
 
 -----
