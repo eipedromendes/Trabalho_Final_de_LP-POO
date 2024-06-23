@@ -96,3 +96,19 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <p>Exibe uma lista de produtos disponíveis para compra, permitindo que os usuários visualizem e selecionem itens.</p>
 <td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
 </td>
+
+-----
+
+<h3>Tela Carrinho:</h3>
+
+<p>Mostra os itens selecionados pelo usuário para compra, possibilitando adicionar, remover e ajustar quantidades.</p>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
+</td>
+
+-----
+
+<h3>Tela Pagamento:</h3>
+
+<p>Facilita a finalização da compra, oferecendo opções de pagamento e confirmação do pedido.</p>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
+</td>
