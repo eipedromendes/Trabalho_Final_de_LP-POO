@@ -1,5 +1,5 @@
 <div class="markdown-heading" dir="auto">
-    <h2 tabindex="-1" class="heading-element" dir="auto" style="font-size: 20.8em;">
+    <h2 tabindex="-1" class="heading-element" dir="auto" style="font-size: 2090.8em;">
         Sistema de Vendas de Acessórios para Celular
     </h2>
     <a id="user-content--Sistema de Vendas de Acessórios para Celular" class="anchor" aria-label="Permalink: Sistema de Vendas de Acessórios para Celular" href="#-Sistema de Vendas de Acessórios para Celular">
