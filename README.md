@@ -91,8 +91,8 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 
 -----
 
-<h3>Tela de Cadastro:</h3>
+<h3>Tela Principal:</h3>
 
-<p>Permite que novos usuários registrem-se na aplicação, fornecendo informações pessoais necessárias.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastro.jpeg?raw=true" width="600px" height="500px"/></a>
+<p>Exibe uma lista de produtos disponíveis para compra, permitindo que os usuários visualizem e selecionem itens.</p>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
 </td>
