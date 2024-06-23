@@ -21,3 +21,10 @@
 <p><b>Tela de Login</b>: Interface para autenticação de usuários.</p>
 <p><b>Tela de Carrinho de Compras</b>: Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.</p>
 <p><b>Tela de Pagamento</b>: Interface para finalizar a compra, fornecendo as opções de pagamento.</p>
+
+-----
+
+<h3>Tecnologias Utilizadas</h3>
+<p>Linguagem de Programação: Java</p>
+<p>Interface Gráfica: Swing</p>
+<p>Banco de Dados: MySQL</p>
