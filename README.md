@@ -41,6 +41,7 @@
 </head>
 <body>
     <h2>Sistema de Vendas de Acessórios para Celular</h2>
+
     <h3>Descrição do Projeto</h3>
     <p>
         Este projeto é um sistema de vendas de acessórios para celular, desenvolvido como parte da avaliação de Programação Orientada a Objetos (POO). A aplicação permite que os usuários visualizem produtos, adicionem itens ao carrinho, e realizem pagamentos. Foi utilizado um banco de dados MySQL para armazenar as informações dos produtos, clientes e vendas.
@@ -48,17 +49,17 @@
 
     <h3>Funcionalidades Implementadas</h3>
     <ul>
-        <li><strong>Tela Principal:</strong> Exibe a lista de produtos disponíveis, permitindo a seleção de itens para adicionar ao carrinho.</li>
-        <li><strong>Tela de Login:</strong> Interface para autenticação de usuários.</li>
-        <li><strong>Tela de Carrinho de Compras:</strong> Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.</li>
-        <li><strong>Tela de Pagamento:</strong> Interface para finalizar a compra, fornecendo as opções de pagamento.</li>
+        <li>Tela Principal: Exibe a lista de produtos disponíveis, permitindo a seleção de itens para adicionar ao carrinho.</li>
+        <li>Tela de Login: Interface para autenticação de usuários.</li>
+        <li>Tela de Carrinho de Compras: Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.</li>
+        <li>Tela de Pagamento: Interface para finalizar a compra, fornecendo as opções de pagamento.</li>
     </ul>
 
     <h3>Tecnologias Utilizadas</h3>
     <ul>
-        <li><strong>Linguagem de Programação:</strong> Java</li>
-        <li><strong>Interface Gráfica:</strong> Swing</li>
-        <li><strong>Banco de Dados:</strong> MySQL</li>
+        <li>Linguagem de Programação: Java</li>
+        <li>Interface Gráfica: Swing</li>
+        <li>Banco de Dados: MySQL</li>
     </ul>
 
     <h3>Estrutura do Projeto</h3>
@@ -66,24 +67,21 @@
         O projeto foi organizado utilizando pacotes para separar o frontend e o backend:
     </p>
     <ul>
-        <li><strong>Pacote BackEnd:</strong> Contém as classes principais do sistema, como Produto, Cliente, Venda, Estoque, e outras entidades do domínio.</li>
-        <li><strong>Pacote FrontEnd:</strong> Contém as classes responsáveis pela interface gráfica da aplicação, incluindo as telas de login, principal, carrinho e pagamento.</li>
+        <li>Pacote BackEnd: Contém as classes principais do sistema, como Produto, Cliente, Venda, Estoque, e outras entidades do domínio.</li>
+        <li>Pacote FrontEnd: Contém as classes responsáveis pela interface gráfica da aplicação, incluindo as telas de login, principal, carrinho e pagamento.</li>
     </ul>
 
     <h3>Detalhes da Implementação</h3>
     <p>
-        <strong>Parte 1: Implementação das Entidades</strong>
-        <br>
+        <strong>Parte 1: Implementação das Entidades</strong><br>
         Implementação das classes de domínio seguindo as melhores práticas de POO. Encapsulamento adequado de todos os campos das classes, com getters e setters. Construtores vazios (sem argumentos) para cada classe, inicializando os campos com valores padrão apropriados.
     </p>
     <p>
-        <strong>Parte 2: Conexão com Banco de Dados</strong>
-        <br>
+        <strong>Parte 2: Conexão com Banco de Dados</strong><br>
         Configuração da conexão com o banco de dados MySQL. Utilização de operações CRUD (Criar, Consultar, Atualizar e Excluir) para gerenciar os dados de produtos, clientes e vendas no banco de dados.
     </p>
     <p>
-        <strong>Parte 3: Operações CRUD</strong>
-        <br>
+        <strong>Parte 3: Operações CRUD</strong><br>
         Implementação das operações CRUD para a classe principal, Produto. Funcionalidade de criação, consulta, atualização e exclusão de registros no banco de dados.
     </p>
 
