@@ -13,3 +13,11 @@
 
 <h3>Descrição do Projeto</h3>
 <p>Este projeto é um sistema de vendas de acessórios para celular, desenvolvido como parte da avaliação de Programação Orientada a Objetos (POO). A aplicação permite que os usuários visualizem produtos, adicionem itens ao carrinho, e realizem pagamentos. Foi utilizado um banco de dados MySQL para armazenar as informações dos produtos, clientes e vendas.</p>
+
+-----
+
+<h3>Funcionalidades Implementadas</h3>
+<p><b>Tela Principal</b>: Exibe a lista de produtos disponíveis, permitindo a seleção de itens para adicionar ao carrinho.
+<b>Tela de Login</b>: Interface para autenticação de usuários.
+<b>Tela de Carrinho de Compras</b>: Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.
+<b>Tela de Pagamento</b>: Interface para finalizar a compra, fornecendo as opções de pagamento.</p>
