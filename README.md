@@ -54,4 +54,18 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 
 -----
 
-<h3></h3>
+<h3>Pontos de Execução</h3>
+
+<p>O projeto inclui um ponto de execução principal na classe TelaPrincipal, com o método public static void main, que inicia a aplicação.</p>
+
+-----
+
+<h3>Instruções para Execução</h3>
+
+<p>Clone o repositório do projeto. Configure as credenciais de acesso ao banco de dados no código-fonte. Compile e execute o projeto utilizando um ambiente de desenvolvimento Java (IDE) como IntelliJ IDEA</p>
+
+-----
+
+<h3>Conclusão</h3>
+
+<p>Este projeto demonstra a aplicação de conceitos de Programação Orientada a Objetos e a integração com um banco de dados MySQL para criar um sistema funcional de vendas de acessórios para celular. As funcionalidades implementadas abrangem desde a visualização e seleção de produtos até a finalização de compras através de uma interface gráfica intuitiva.</p>
