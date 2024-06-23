@@ -73,5 +73,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 -----
 
 <h3>Tela de Login:</h3>
+
+<p>Permite que usuários autentiquem-se na aplicação fornecendo suas credenciais</p>
 <td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="600px" height="500px"/></a>
 </td>
