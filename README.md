@@ -17,7 +17,7 @@
 -----
 
 <h3>Funcionalidades Implementadas</h3>
-<p><b>Tela Principal</b>: Exibe a lista de produtos disponíveis, permitindo a seleção de itens para adicionar ao carrinho.
-<b>Tela de Login</b>: Interface para autenticação de usuários.
-<b>Tela de Carrinho de Compras</b>: Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.
-<b>Tela de Pagamento</b>: Interface para finalizar a compra, fornecendo as opções de pagamento.</p>
+<p><b>Tela Principal</b>: Exibe a lista de produtos disponíveis, permitindo a seleção de itens para adicionar ao carrinho.</p>
+<p><b>Tela de Login</b>: Interface para autenticação de usuários.</p>
+<p><b>Tela de Carrinho de Compras</b>: Permite a visualização dos itens adicionados ao carrinho, com opções para continuar comprando ou prosseguir para o pagamento.</p>
+<p><b>Tela de Pagamento</b>: Interface para finalizar a compra, fornecendo as opções de pagamento.</p>
