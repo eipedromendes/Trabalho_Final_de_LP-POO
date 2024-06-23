@@ -11,5 +11,5 @@
 
 -----
 
-<h3>ddd</h3>
-<p>asd</p>
+<h3>Descrição do Projeto</h3>
+<p>Este projeto é um sistema de vendas de acessórios para celular, desenvolvido como parte da avaliação de Programação Orientada a Objetos (POO). A aplicação permite que os usuários visualizem produtos, adicionem itens ao carrinho, e realizem pagamentos. Foi utilizado um banco de dados MySQL para armazenar as informações dos produtos, clientes e vendas.</p>
