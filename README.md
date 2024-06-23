@@ -76,4 +76,14 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 
 <p>Permite que usuários autentiquem-se na aplicação fornecendo suas credenciais</p>
 <td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/LoginErro.jpeg?raw=true" width="600px" height="500px"/></a>
 </td>
+
+-----
+
+<h3>Tela de Cadastro:</h3>
+
+<p>Permite que novos usuários registrem-se na aplicação, fornecendo informações pessoais necessárias.</p>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastro.jpeg?raw=true" width="600px" height="500px"/></a>
+</td>
+
