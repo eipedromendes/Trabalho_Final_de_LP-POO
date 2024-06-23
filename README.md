@@ -73,5 +73,5 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 -----
 
 <h3>Tela de Login:</h3>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="500px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="500px" height="600px"/></a>
 </td>
