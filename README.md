@@ -28,3 +28,13 @@
 <p>Linguagem de Programação: Java</p>
 <p>Interface Gráfica: Swing</p>
 <p>Banco de Dados: MySQL</p>
+
+-----
+
+<h3>Estrutura do Projeto</h3>
+<p>O projeto foi organizado utilizando pacotes para separar o frontend e o backend:</p>
+<p>Pacote BackEnd: Contém as classes principais do sistema, como Produto, Cliente, Venda, Estoque, e outras entidades do domínio.</p>
+<p>Pacote FrontEnd: Contém as classes responsáveis pela interface gráfica da aplicação, incluindo as telas de login, principal, carrinho e pagamento.</p>
+
+-----
+
