@@ -69,3 +69,9 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Conclusão</h3>
 
 <p>Este projeto demonstra a aplicação de conceitos de Programação Orientada a Objetos e a integração com um banco de dados MySQL para criar um sistema funcional de vendas de acessórios para celular. As funcionalidades implementadas abrangem desde a visualização e seleção de produtos até a finalização de compras através de uma interface gráfica intuitiva.</p>
+
+-----
+
+<h3>Tela de Login:</h3>
+<td><a href="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="50px" height="50px"/></a>
+</td>
