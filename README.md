@@ -3,8 +3,6 @@
         Sistema de Vendas de Acessórios para Celular
     </h2>
     <a id="user-content--Sistema de Vendas de Acessórios para Celular" class="anchor" aria-label="Permalink: Sistema de Vendas de Acessórios para Celular" href="#-Sistema de Vendas de Acessórios para Celular">
-        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-        </svg>
     </a>
 </div>
 
