@@ -76,8 +76,8 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 
 <p>Permite que usuários autentiquem-se na aplicação fornecendo suas credenciais</p>
 <td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogin.jpeg?raw=true" width="550px" height="300px"/></a>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/loginErro.jpeg?raw=true" width="600px" height="500px"/></a>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogado.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/loginErro.jpeg?raw=true" width="550px" height="300px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaLogado.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
 
 -----
@@ -85,8 +85,8 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Tela de Cadastro:</h3>
 
 <p>Permite que novos usuários registrem-se na aplicação, fornecendo informações pessoais necessárias.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastro.jpeg?raw=true" width="600px" height="500px"/></a>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastrado.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastro.jpeg?raw=true" width="550px" height="300px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCadastrado.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
 
 -----
@@ -94,7 +94,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Tela Principal:</h3>
 
 <p>Exibe uma lista de produtos disponíveis para compra, permitindo que os usuários visualizem e selecionem itens.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPrincipal.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
 
 -----
@@ -102,7 +102,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Tela Carrinho:</h3>
 
 <p>Mostra os itens selecionados pelo usuário para compra, possibilitando adicionar, remover e ajustar quantidades.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCarrinho.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaCarrinho.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
 
 -----
@@ -110,7 +110,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 <h3>Tela Pagamento:</h3>
 
 <p>Facilita a finalização da compra, oferecendo opções de pagamento e confirmação do pedido.</p>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPagamento.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPagamento.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
-<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPagado.jpeg?raw=true" width="600px" height="500px"/></a>
+<td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPagado.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
