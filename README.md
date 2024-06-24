@@ -114,3 +114,7 @@ Construtores vazios (sem argumentos) para cada classe, inicializando os campos c
 </td>
 <td><a href="https://github.com/eipedromendes" target="_blank"><img src="https://github.com/eipedromendes/Trabalho_Final_de_LP-POO/blob/main/imggif/telaPagado.jpeg?raw=true" width="550px" height="300px"/></a>
 </td>
+
+-----
+<p><b>Não foi possível adicionar o vídeo do programa funcionando aqui no README.md, então ele foi adiocionado na pasta 'img' deste mesmo repositório para quem quiser visualizar.</b></p>
+-----
